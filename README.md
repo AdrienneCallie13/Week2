@@ -24,7 +24,7 @@ User stories are used to sharing knowledge of a user's goals, objectives, and th
 
 After defined user stories, I sketched out my idea based on the user stories on Figma. When starting Figma for the first time I have the impression that I’m using a web-based version of sketch.
 
-.png![First prototype on Figma](https://user-images.githubusercontent.com/87454125/127002546-5044ec13-4210-45c0-bea2-9286be96b3c2.png) 
+First prototype on Figma](https://user-images.githubusercontent.com/87454125/127002546-5044ec13-4210-45c0-bea2-9286be96b3c2.png) 
 First prototype on Figma.
 
 
