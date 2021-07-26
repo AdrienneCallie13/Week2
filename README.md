@@ -12,13 +12,12 @@ On the other hand, Traveloka website is not a responsive website because the tex
 
 <img width="1427" alt="Screen Shot 2021-07-26 at 11 44 45 pm" src="https://user-images.githubusercontent.com/87454125/127000495-b0024bae-28a5-4fba-aaf8-0e45850ebf5f.png"> Traveloka’s website when reduce the screen size.
 
-Task 2:
+Task 2: In task 2, I did refinement on my week 1 practical task one to three. I improved my web page with considering the page layout, add horizontal navigation bar, and I change the colour and graphics elements. I also make sure to make my page responsive.
 
-In task 2, I did refinement on my week 1 practical task one to three. I improved my web page with considering the page layout, add horizontal navigation bar, and I change the colour and graphics elements. I also make sure to make my page responsive.
+<img width="1428" alt="Website Refinement" src="https://user-images.githubusercontent.com/87454125/127003275-b720ce5c-69ea-479f-b869-221323a26690.png"> 
+Website Refinement.
 
-Task 3:
-
-User stories are used to sharing knowledge of a user's goals, objectives, and the value they derive from a particular product, service or capability. After defined user stories, I use Figma to design how the user interface will looks like. 
+Task 3: User stories are used to sharing knowledge of a user's goals, objectives, and the value they derive from a particular product, service or capability. After defined user stories, I use Figma to design how the user interface will looks like. 
 
 <img width="353" alt="Screen Shot 2021-07-27 at 12 00 54 am" src="https://user-images.githubusercontent.com/87454125/127001676-ab3ad090-459b-4702-8f93-6215a552963d.png"> User Stories Screenschot.
 
