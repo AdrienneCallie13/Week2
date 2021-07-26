@@ -8,7 +8,7 @@ Airbnb manages to get everything right in their elegantly designed website. My f
 
 On the other hand, Traveloka website is not a responsive website because the texts and elements doesn’t merge into the screen size when user adjust the screen. When user click Traveloka’s link on website, it directly brings user to download the app instead of viewing from the website.
 
-<img width="580" alt="Screen Shot 2021-07-26 at 11 45 12 pm" src="https://user-images.githubusercontent.com/87454125/127001061-86e4609f-366b-49ce-807f-2eed4a17846d.png"> Traveloka full screen view.
+<img width="1427" alt="Screen Shot 2021-07-26 at 11 45 12 pm" src="https://user-images.githubusercontent.com/87454125/127001061-86e4609f-366b-49ce-807f-2eed4a17846d.png"> Traveloka full screen view.
 
 <img width="1427" alt="Screen Shot 2021-07-26 at 11 44 45 pm" src="https://user-images.githubusercontent.com/87454125/127000495-b0024bae-28a5-4fba-aaf8-0e45850ebf5f.png"> Traveloka’s website when reduce the screen size.
 
@@ -21,4 +21,10 @@ Task 3:
 User stories are used to sharing knowledge of a user's goals, objectives, and the value they derive from a particular product, service or capability. After defined user stories, I use Figma to design how the user interface will looks like. 
 
 <img width="353" alt="Screen Shot 2021-07-27 at 12 00 54 am" src="https://user-images.githubusercontent.com/87454125/127001676-ab3ad090-459b-4702-8f93-6215a552963d.png"> User Stories Screenschot.
+
+After defined user stories, I sketched out my idea based on the user stories on Figma. When starting Figma for the first time I have the impression that I’m using a web-based version of sketch.
+
+.png![First prototype on Figma](https://user-images.githubusercontent.com/87454125/127002546-5044ec13-4210-45c0-bea2-9286be96b3c2.png) 
+First prototype on Figma.
+
 
