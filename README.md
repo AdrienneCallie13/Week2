@@ -4,4 +4,4 @@ Airbnb manages to get everything right in their elegantly designed website. My f
 
 <img width="1422" alt="Screen Shot 2021-07-26 at 11 40 56 pm" src="https://user-images.githubusercontent.com/87454125/126998675-689bf497-7e01-4f7f-bcf3-49743ebd84ba.png"> Airbnb desktop view.
 
-Screen Shot 2021-07-26 at 11.41.51 pm<img width="486" alt="Screen Shot 2021-07-26 at 11 41 51 pm" src="https://user-images.githubusercontent.com/87454125/126998782-e56b7cd7-169f-42ca-af5b-a5b14cccac4f.png"> Airbnb mobile view.
+<img width="486" alt="Screen Shot 2021-07-26 at 11 41 51 pm" src="https://user-images.githubusercontent.com/87454125/126998782-e56b7cd7-169f-42ca-af5b-a5b14cccac4f.png"> Airbnb mobile view.
