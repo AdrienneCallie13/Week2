@@ -5,3 +5,12 @@ Airbnb manages to get everything right in their elegantly designed website. My f
 <img width="1422" alt="Screen Shot 2021-07-26 at 11 40 56 pm" src="https://user-images.githubusercontent.com/87454125/126998675-689bf497-7e01-4f7f-bcf3-49743ebd84ba.png"> Airbnb desktop view.
 
 <img width="486" alt="Screen Shot 2021-07-26 at 11 41 51 pm" src="https://user-images.githubusercontent.com/87454125/126998782-e56b7cd7-169f-42ca-af5b-a5b14cccac4f.png"> Airbnb mobile view.
+
+On the other hand, Traveloka website is not a responsive website because the texts and elements doesn’t merge into the screen size when user adjust the screen. When user click Traveloka’s link on website, it directly brings user to download the app instead of viewing from the website.
+
+<img width="580" alt="Screen Shot 2021-07-26 at 11 45 12 pm" src="https://user-images.githubusercontent.com/87454125/126999342-01b337d0-2366-4c6c-b5d3-1e3ff7b74a36.png"> Traveloka full screen view.
+
+<img width="1427" alt="Screen Shot 2021-07-26 at 11 44 45 pm" src="https://user-images.githubusercontent.com/87454125/126999360-8d4c4d71-a9ea-40dd-9930-4877dd232928.png"> Traveloka’s website when reduce the screen size.
+
+
+
