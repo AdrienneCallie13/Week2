@@ -1,3 +1,5 @@
+Learning reflection:  In week 2, my goal is to research advanced HTML, CSS, JavaScript elements and implement them on website aims to have a visual aesthetic outcome. Beside researching about the user interface, I also start deciding what components that need to include in my website by using Figma to create the wireframe and prototypes. Before next week class, I will familiarise myself with basic vuejs concepts. 
+
 Task 1: On task 1, I decided to analyse two travel websites that align to my purpose ideas. Those are Airbnb and Traveloka.
 
 Airbnb manages to get everything right in their elegantly designed website. My favourite part of their responsive design approach was seeing the way their navigation bars change when switching from desktop to mobile devices. On a mobile device, the menus compact themselves into a single search bar where the different pages can be accessed easily
