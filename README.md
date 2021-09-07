@@ -2,9 +2,12 @@ Learning reflection:  In week 2, my goal is to research advanced HTML, CSS, Java
 
 Next week, I expected: 
 
-• Will start working on summary (2 hours)
+• Will start working on summary (2 hours).
+
 • Before into UI/UX design, I will fill out my assets list (HTML, CSS, JavaScript) and 5 user stories (3 hours).
+
 • Start working on the landing page for final project (10 hours).
+
 • Implement media question on my website.
 
 Task 1: On task 1, I decided to analyse two travel websites that align to my purpose ideas. Those are Airbnb and Traveloka.
